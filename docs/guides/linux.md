@@ -22,7 +22,7 @@ mihomo-party
 
 ## 二、添加订阅
 
-1. 用浏览器打开 [官网](https://colacloud.net)
+1. 用浏览器打开 [官网](https://www.colacloud.net)
 2. 复制 Clash 订阅链接
 3. 在 Mihomo Party 订阅界面粘贴地址，等待下载完成
 

@@ -17,7 +17,7 @@
 
 1. 安装后打开 Mihomo Party（建议右键「以管理员身份运行」）
 2. 若无响应：重启电脑，或在任务管理器结束 mihomo 相关进程后，再以管理员权限启动
-3. 用 Edge / Chrome 打开 [官网](https://colacloud.net)
+3. 用 Edge / Chrome 打开 [官网](https://www.colacloud.net)
 4. 在仪表盘点击「一键导入 Clash 订阅」，会跳转到 Mihomo Party
 
 ## 三、启动

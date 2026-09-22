@@ -21,7 +21,7 @@
 
 ## 二、导入订阅
 
-1. 用 Safari 打开 [官网](https://colacloud.net)（若在微信 / QQ / 百度 App 内打开，请用系统浏览器打开）
+1. 用 Safari 打开 [官网](https://www.colacloud.net)（若在微信 / QQ / 百度 App 内打开，请用系统浏览器打开）
 2. 在仪表盘点击「一键导入 Shadowrocket」
 3. 选择需要的节点，打开连接开关
 

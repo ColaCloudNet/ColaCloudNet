@@ -16,7 +16,7 @@
 
 ## 三、导入订阅
 
-1. 用浏览器打开 [官网](https://colacloud.net)
+1. 用浏览器打开 [官网](https://www.colacloud.net)
 2. 在仪表盘点击「一键导入 Clash 订阅」，跳转到 Mihomo Party
 
 ## 四、启动
