@@ -61,7 +61,7 @@
 
 | 渠道 | 账号 |
 | --- | --- |
-| Email | Crystalrapier76@gmail.com |
+| Email | 见官网联系页（不在仓库公开个人邮箱） |
 | Telegram | [@LouisWinner](https://t.me/LouisWinner) |
 | Instagram | [@colacloud.online](https://instagram.com/colacloud.online) |
 | Twitter / X | [@colacloudnet](https://x.com/colacloudnet) |
